@@ -3,6 +3,7 @@ let jogadores = [
     // { nome: 'Wellington Moreira', apelido: 'Dorinha', foto: 'dorinha.jpg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
     // { nome: 'Marcos Moreira', apelido: 'Marquinhos', foto: 'marquinhos.jpg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
     { nome: 'Camilo Miranda', apelido: 'Kazimas', foto: 'camilo.jpeg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
+    { nome: 'Renato J. Santos', apelido: 'Camelão do deserto', foto: 'renato.jpeg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
     // { nome: 'Ambrósio Pereira', apelido: 'Brosnildo64', foto: 'ambrosio.jpg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
     { nome: 'Emerson Teixeira', apelido: 'Dida', foto: 'dida.jpeg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
     { nome: 'Victor Andrade Brito Silva', apelido: 'Loucurazero', foto: 'vitao.jpeg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
