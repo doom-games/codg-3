@@ -14,53 +14,11 @@ let ranking = [];
 
 let perguntas = [
     {
-        descricao: 'Qual é o jogo de plataforma em que você controla um personagem chamado "Banjo" e seu companheiro "Kazooie", conhecido por suas aventuras em mundos coloridos?',
-        resposta: 'Banjo-Kazooie',
-        pontos: -1,
-        jogador: 'Camilão',
-        jogadorPontuado: 'Dorinha'
-    },
-    {
-        descricao: 'Teste teste 2',
-        resposta: 'teste',
-        pontos: 1,
-        jogador: 'Camilão',
-        jogadorPontuado: 'Camilão'
-    },
-    {
-        descricao: 'Teste teste 3',
-        resposta: 'teste',
-        pontos: 1,
-        jogador: 'Camilão',
-        jogadorPontuado: 'Dida'
-    },
-    {
-        descricao: 'Teste teste 4',
-        resposta: 'teste',
-        pontos: 1,
-        jogador: 'Dida',
-        jogadorPontuado: 'Igornorante'
-    },
-    {
-        descricao: 'Teste teste 5',
-        resposta: 'teste',
-        pontos: 1,
-        jogador: 'Igornorante',
-        jogadorPontuado: 'Igornorante'
-    },
-    {
-        descricao: 'Teste teste 6',
-        resposta: 'teste',
-        pontos: 1,
-        jogador: 'Marquinhos',
-        jogadorPontuado: 'kmikzy360'
-    },
-    {
-        descricao: 'Teste teste 7',
+        descricao: 'Teste teste 1',
         resposta: 'teste',
         pontos: -1,
-        jogador: 'Dorinha',
-        jogadorPontuado: 'Brosnildo64'
+        jogador: 'x',
+        jogadorPontuado: 'x'
     }
 ];
 
