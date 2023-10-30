@@ -209,12 +209,12 @@ function calcularRanking() {
 
     jogadores.forEach((jogador) => {
         matadores.forEach((matador) => {
-            if(matador.apelido == jogador.apelido && jogador.pontosMatador >= jogador.pontosCurador) {
+            if(matador.apelido == jogador.apelido && jogador.pontosMatador > 0 && jogador.pontosMatador >= jogador.pontosCurador) {
                 jogador.brasao = 'Matador';
             }
         });
         curadores.forEach((curador) => {
-            if(curador.apelido == jogador.apelido && jogador.pontosCurador > jogador.pontosMatador) {
+            if(curador.apelido == jogador.apelido && jogador.pontosCurador > 0 && jogador.pontosCurador > jogador.pontosMatador) {
                 jogador.brasao = 'Curador';
             }
         });
