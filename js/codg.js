@@ -45,10 +45,17 @@ let perguntas = [
     },
     {
         descricao: 'Quem é o criador da série de jogos "Metal Gear"?',
-        resposta: 'Hideo Kojima',
+        resposta: 'Cortana',
         pontos: 1,
         jogador: 'Shadow',
         jogadorPontuado: 'Shadow'
+    },
+    {
+        descricao: 'Qual é o nome da inteligência artificial em "Halo" que guia o protagonista Master Chief?',
+        resposta: 'Cortana',
+        pontos: -1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
