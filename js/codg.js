@@ -119,6 +119,13 @@ let perguntas = [
         pontos: 2,
         jogador: 'Brosnildo',
         jogadorPontuado: 'Brosnildo'
+    },
+    {
+        descricao: 'Qual é o jogo clássico onde você controla um amarelo comilão que come bolinhas e fantasmas?',
+        resposta: 'Pac-Man',
+        pontos: 1,
+        jogador: 'kmikzy',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
