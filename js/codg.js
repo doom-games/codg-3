@@ -84,6 +84,13 @@ let perguntas = [
         pontos: 3,
         jogador: 'FAP',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o nome da protagonista feminina do jogo "Horizon Zero Dawn"?',
+        resposta: 'Dungeons & Dragons (ou "D&D")',
+        pontos: 1,
+        jogador: 'FAP',
+        jogadorPontuado: 'FAP'
     }
 ];
 
