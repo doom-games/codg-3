@@ -154,6 +154,20 @@ let perguntas = [
         pontos: 1,
         jogador: 'FAP',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o título do jogo de estratégia em tempo real lançado pela Blizzard em 2004 que se tornou um fenômeno mundial?',
+        resposta: 'World of Warcraft',
+        pontos: 1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o nome do protagonista do jogo "Red Dead Redemption" lançado em 2010?',
+        resposta: 'World of Warcraft',
+        pontos: 2,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
