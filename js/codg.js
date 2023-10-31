@@ -147,6 +147,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o título do jogo de RPG lançado em 1987 que se tornou um marco no gênero e influenciou muitos jogos subsequentes?',
+        resposta: 'Final Fantasy',
+        pontos: 1,
+        jogador: 'FAP',
+        jogadorPontuado: 'FAP'
     }
 ];
 
