@@ -116,7 +116,7 @@ let perguntas = [
     {
         descricao: 'Qual é o jogo mais vendido de todos os tempos?',
         resposta: 'Tetris',
-        pontos: 1,
+        pontos: 2,
         jogador: 'Brosnildo',
         jogadorPontuado: 'Brosnildo'
     }
