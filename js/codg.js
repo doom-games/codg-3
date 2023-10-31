@@ -15,11 +15,11 @@ let ranking = [];
 
 let perguntas = [
     {
-        descricao: 'Teste teste 1',
-        resposta: 'teste',
-        pontos: -1,
-        jogador: 'x',
-        jogadorPontuado: 'x'
+        descricao: 'Qual empresa é responsável pelo desenvolvimento do jogo "Fortnite"?',
+        resposta: 'Epic Games',
+        pontos: 1,
+        jogador: 'kmikzy',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
