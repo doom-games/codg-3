@@ -77,6 +77,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'Shadow',
         jogadorPontuado: 'Shadow'
+    },
+    {
+        descricao: 'Qual é o título do primeiro jogo de RPG de ação lançado em 1975 e considerado um precursor dos RPGs eletrônicos?',
+        resposta: 'Dungeons & Dragons (ou "D&D")',
+        pontos: 3,
+        jogador: 'Shadow',
+        jogadorPontuado: 'Shadow'
     }
 ];
 
