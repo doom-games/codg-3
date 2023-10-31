@@ -63,6 +63,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Igornorante'
+    },
+    {
+        descricao: 'Qual é o console de vídeo game lançado pela Microsoft em 2001?',
+        resposta: 'Sonic the Hedgehog',
+        pontos: -1,
+        jogador: 'Shadow',
+        jogadorPontuado: 'Igornorante'
     }
 ];
 
