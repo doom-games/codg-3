@@ -56,6 +56,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o nome do personagem azul e espinhoso da Sega que compete com Mario?',
+        resposta: 'Sonic the Hedgehog',
+        pontos: 1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Igornorante'
     }
 ];
 
