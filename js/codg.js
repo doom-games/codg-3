@@ -112,6 +112,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Igornorante'
+    },
+    {
+        descricao: 'Qual é o jogo mais vendido de todos os tempos?',
+        resposta: 'Tetris',
+        pontos: 1,
+        jogador: 'Brosnildo',
+        jogadorPontuado: 'Brosnildo'
     }
 ];
 
