@@ -2,6 +2,7 @@ let jogadores = [
     { nome: 'Maurílio Fernandes', apelido: 'kmikzy', foto: 'hrone.jpeg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
     // { nome: 'Wellington Moreira', apelido: 'Dorinha', foto: 'dorinha.jpg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
     { nome: 'Marcos Moreira', apelido: 'Shadow', foto: 'marquinhos.jpeg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
+    { nome: 'Júnio Teles', apelido: 'BioJux', foto: 'junio.jpeg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
     { nome: 'Camilo Miranda', apelido: 'Kazimas', foto: 'camilo.jpeg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
     { nome: 'Renato J. Santos', apelido: 'Camelão do deserto', foto: 'renato.jpeg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
     { nome: 'Ambrósio Pereira', apelido: 'Brosnildo', foto: 'ambrosio.jpeg', brasao: 'Jogador', respostas: 0, pontos: 0, pontosMatador: 0, pontosCurador: 0},
