@@ -126,6 +126,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'kmikzy',
         jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Qual é o nome do vilão da série de jogos "Final Fantasy VII"?',
+        resposta: 'Sephiroth',
+        pontos: 1,
+        jogador: 'kmikzy',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
