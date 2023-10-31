@@ -133,6 +133,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'kmikzy',
         jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Qual é o nome da protagonista feminina da série de jogos "Metroid"?',
+        resposta: 'Samus Aran',
+        pontos: 1,
+        jogador: 'Brosnildo',
+        jogadorPontuado: 'Brosnildo'
     }
 ];
 
