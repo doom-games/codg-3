@@ -105,6 +105,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'Kazimas',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o nome do criador do jogo "Minecraft"?',
+        resposta: 'Markus Persson (Notch)',
+        pontos: 1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Igornorante'
     }
 ];
 
