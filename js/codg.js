@@ -37,11 +37,18 @@ let perguntas = [
         jogadorPontuado: 'kmikzy'
     },
     {
-        descricao: 'Quem é o protagonista dos primeiros jogos da série "Assassin\'s Creed"',
+        descricao: 'Quem é o protagonista dos primeiros jogos da série "Assassin\'s Creed"?',
         resposta: 'Desmond Miles',
         pontos: 1,
         jogador: 'kmikzy',
         jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Quem é o criador da série de jogos "Metal Gear"?',
+        resposta: 'Hideo Kojima',
+        pontos: 1,
+        jogador: 'Shadow',
+        jogadorPontuado: 'Shadow'
     }
 ];
 
