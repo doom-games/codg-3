@@ -70,6 +70,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'Shadow',
         jogadorPontuado: 'Igornorante'
+    },
+    {
+        descricao: 'Em qual jogo de vídeo game a protagonista é a exploradora Lara Croft?',
+        resposta: 'Tomb Raider',
+        pontos: 1,
+        jogador: 'Shadow',
+        jogadorPontuado: 'Shadow'
     }
 ];
 
