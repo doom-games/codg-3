@@ -28,6 +28,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o nome do primeiro console de vídeo game doméstico lançado pela Nintendo?',
+        resposta: 'Nintendo Entertainment System (NES)',
+        pontos: 1,
+        jogador: 'kmikzy',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
