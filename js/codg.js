@@ -140,6 +140,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'Brosnildo',
         jogadorPontuado: 'Brosnildo'
+    },
+    {
+        descricao: 'Qual é o jogo de ação-aventura da Naughty Dog lançado em 2013, estrelado por Joel e Ellie?',
+        resposta: 'The Last of Us',
+        pontos: 1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
