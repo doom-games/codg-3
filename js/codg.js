@@ -98,6 +98,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Igornorante'
+    },
+    {
+        descricao: 'Qual é o console de vídeo game mais vendido de todos os tempos?',
+        resposta: 'PlayStation 2',
+        pontos: -1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'FAP'
     }
 ];
 
