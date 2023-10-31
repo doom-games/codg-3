@@ -20,6 +20,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'kmikzy',
         jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Qual é o nome do protagonista da série "Metal Gear Solid"?',
+        resposta: 'Solid Snake',
+        pontos: 1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
