@@ -91,6 +91,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'FAP',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o nome do herói da série de jogos "The Witcher"?',
+        resposta: 'Geralt of Rivia',
+        pontos: 1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Igornorante'
     }
 ];
 
