@@ -182,6 +182,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'kmikzy',
         jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Qual é o título do jogo de RPG japonês que apresenta personagens chamados Cloud e Sephiroth?',
+        resposta: 'Final Fantasy VII',
+        pontos: 1,
+        jogador: 'BioJux',
+        jogadorPontuado: 'BioJux'
     }
 ];
 
