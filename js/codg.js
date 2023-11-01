@@ -168,6 +168,13 @@ let perguntas = [
         pontos: 2,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o nome do personagem principal da série "The Legend of Zelda"?',
+        resposta: 'Link',
+        pontos: 1,
+        jogador: 'kmikzy',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
