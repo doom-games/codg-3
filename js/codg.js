@@ -45,7 +45,7 @@ let perguntas = [
     },
     {
         descricao: 'Quem é o criador da série de jogos "Metal Gear"?',
-        resposta: 'Cortana',
+        resposta: 'Hideo Kojima',
         pontos: 1,
         jogador: 'Shadow',
         jogadorPontuado: 'Shadow'
@@ -66,7 +66,7 @@ let perguntas = [
     },
     {
         descricao: 'Qual é o console de vídeo game lançado pela Microsoft em 2001?',
-        resposta: 'Sonic the Hedgehog',
+        resposta: 'XBox',
         pontos: -1,
         jogador: 'Shadow',
         jogadorPontuado: 'Igornorante'
@@ -87,7 +87,7 @@ let perguntas = [
     },
     {
         descricao: 'Qual é o nome da protagonista feminina do jogo "Horizon Zero Dawn"?',
-        resposta: 'Dungeons & Dragons (ou "D&D")',
+        resposta: 'Aloy',
         pontos: 1,
         jogador: 'FAP',
         jogadorPontuado: 'FAP'
@@ -164,7 +164,7 @@ let perguntas = [
     },
     {
         descricao: 'Qual é o nome do protagonista do jogo "Red Dead Redemption" lançado em 2010?',
-        resposta: 'World of Warcraft',
+        resposta: 'John Marston',
         pontos: 2,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
