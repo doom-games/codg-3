@@ -175,6 +175,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'kmikzy',
         jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Qual é o nome do encanador verde que é irmão de Mario?',
+        resposta: 'Luigi',
+        pontos: 1,
+        jogador: 'kmikzy',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
