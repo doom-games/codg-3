@@ -287,6 +287,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'Kazimas',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o console de videogame lançado pela Nintendo em 2017?',
+        resposta: 'Nintendo Switch',
+        pontos: +1,
+        jogador: 'Loucurazero',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
