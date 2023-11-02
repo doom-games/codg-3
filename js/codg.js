@@ -322,6 +322,13 @@ let perguntas = [
         pontos: -1,
         jogador: '???',
         jogadorPontuado: '???'
+    },
+    {
+        descricao: 'Qual foi o primeiro jogo eletrônico a apresentar um protagonista feminino, lançado em 1982?',
+        resposta: 'Ms. Pac-Man',
+        pontos: +1,
+        jogador: 'kmikzy',
+        jogadorPontuado: 'Loucurazero'
     }
 ];
 
