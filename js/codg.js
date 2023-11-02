@@ -245,6 +245,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'Kazimas',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o título do jogo em que você assume o papel do protagonista chamado "Master Chief"?',
+        resposta: 'Halo: Combat Evolved',
+        pontos: -1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
