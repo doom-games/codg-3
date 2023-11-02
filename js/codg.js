@@ -238,6 +238,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'FAP',
         jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Qual é o nome do console de videogame lançado pela Sega em 1998?',
+        resposta: 'Dreamcast',
+        pontos: -1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'FAP'
     }
 ];
 
