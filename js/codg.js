@@ -315,6 +315,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Igornorante'
+    },
+    {
+        descricao: 'Qual é o nome do protagonista do jogo "Dark Souls"?',
+        resposta: 'O Escolhido dos Mortos (Chosen Undead)',
+        pontos: +1,
+        jogador: 'kmikzy',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
