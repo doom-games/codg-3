@@ -266,6 +266,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o nome do protagonista do jogo "Final Fantasy VII"?',
+        resposta: 'Cloud Strife',
+        pontos: 1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
