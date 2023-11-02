@@ -203,6 +203,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'FAP',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o título do jogo que apresenta um personagem esquelético chamado Sans e é conhecido por suas escolhas morais?',
+        resposta: 'Undertale',
+        pontos: 1,
+        jogador: 'FAP',
+        jogadorPontuado: 'FAP'
     }
 ];
 
