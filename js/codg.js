@@ -210,6 +210,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'FAP',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o título do jogo de tiro em primeira pessoa que apresenta um protagonista chamado Gordon Freeman?',
+        resposta: 'Half-Life',
+        pontos: 1,
+        jogador: 'Loucurazero',
+        jogadorPontuado: 'Loucurazero'
     }
 ];
 
