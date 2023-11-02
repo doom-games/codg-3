@@ -196,6 +196,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'Shadow',
         jogadorPontuado: 'Shadow'
+    },
+    {
+        descricao: 'Qual é o nome do criador da série de jogos "The Legend of Zelda" e "Super Mario"?',
+        resposta: 'Shigeru Miyamoto',
+        pontos: 1,
+        jogador: 'FAP',
+        jogadorPontuado: 'FAP'
     }
 ];
 
