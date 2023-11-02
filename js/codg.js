@@ -217,6 +217,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'Loucurazero',
         jogadorPontuado: 'Loucurazero'
+    },
+    {
+        descricao: 'Qual é o nome do console portátil lançado pela Nintendo em 1989?',
+        resposta: 'Game Boy',
+        pontos: 1,
+        jogador: 'Loucurazero',
+        jogadorPontuado: 'Loucurazero'
     }
 ];
 
