@@ -273,6 +273,20 @@ let perguntas = [
         pontos: 1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o nome do vilão da série "Kingdom Hearts" que é o líder da Organização XIII?',
+        resposta: 'Xemnas',
+        pontos: 1,
+        jogador: 'FAP',
+        jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o nome do jogo lançado em 1993 que é considerado um dos precursores dos jogos de tiro em primeira pessoa?',
+        resposta: 'Doom',
+        pontos: -1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'FAP'
     }
 ];
 
@@ -457,8 +471,10 @@ function calcularRanking() {
         });
     });
     let matadoresOrdenados = jogadores.sort((a,b) => b.pontosMatador - a.pontosMatador);
+    console.log('matadoresOrdenados', matadoresOrdenados)
     let matadores = matadoresOrdenados.filter((a) => a.pontosMatador == matadoresOrdenados[0].pontosMatador);
     let curadoresOrdenados = jogadores.sort((a,b) => b.pontosCurador - a.pontosCurador);
+    console.log('curadoresOrdenados', curadoresOrdenados)
     let curadores = curadoresOrdenados.filter((a) => a.pontosCurador == curadoresOrdenados[0].pontosCurador);
 
     jogadores.forEach((jogador) => {
