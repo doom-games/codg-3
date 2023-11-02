@@ -252,6 +252,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'Kazimas',
         jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Qual é o nome do primeiro console de videogame produzido pela Sony?',
+        resposta: 'PlayStation',
+        pontos: 1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
