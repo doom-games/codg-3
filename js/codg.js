@@ -294,6 +294,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'Loucurazero',
         jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Qual é o nome do jogo de plataforma em que os jogadores controlam um lobo chamado Amaterasu?',
+        resposta: 'Okami',
+        pontos: +1,
+        jogador: 'FAP',
+        jogadorPontuado: 'FAP'
     }
 ];
 
