@@ -317,11 +317,11 @@ let perguntas = [
         jogadorPontuado: 'Igornorante'
     },
     {
-        descricao: 'Qual é o nome do protagonista do jogo "Dark Souls"?',
-        resposta: 'O Escolhido dos Mortos (Chosen Undead)',
-        pontos: +1,
-        jogador: 'kmikzy',
-        jogadorPontuado: 'kmikzy'
+        descricao: 'Qual é a trilha sonora icônica composta por Nobuo Uematsu para a série "Final Fantasy"?',
+        resposta: '???',
+        pontos: -1,
+        jogador: '???',
+        jogadorPontuado: '???'
     }
 ];
 
