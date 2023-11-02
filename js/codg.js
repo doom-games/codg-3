@@ -189,6 +189,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'kmikzy',
         jogadorPontuado: 'BioJux'
+    },
+    {
+        descricao: 'Qual foi o primeiro console de vídeo game doméstico lançado comercialmente?',
+        resposta: 'Magnavox Odyssey',
+        pontos: 1,
+        jogador: 'Shadow',
+        jogadorPontuado: 'Shadow'
     }
 ];
 
