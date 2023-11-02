@@ -228,8 +228,15 @@ let perguntas = [
     {
         descricao: 'Qual é o nome do protagonista da série "Max Payne"?',
         resposta: 'Max Payne',
-        pontos: 1,
+        pontos: -1,
         jogador: 'Kazimas',
+        jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Qual é o título do jogo de RPG de ação ambientado em um mundo chamado Tamriel?',
+        resposta: 'The Elder Scrolls V: Skyrim',
+        pontos: -1,
+        jogador: 'FAP',
         jogadorPontuado: 'kmikzy'
     }
 ];
