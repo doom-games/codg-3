@@ -259,6 +259,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o título do jogo de aventura que se passa na cidade fictícia de Raccoon City?',
+        resposta: 'Resident Evil 2',
+        pontos: 1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
