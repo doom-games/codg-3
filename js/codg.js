@@ -301,6 +301,20 @@ let perguntas = [
         pontos: +1,
         jogador: 'FAP',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual foi o primeiro console de videogame fabricado pela Nintendo?',
+        resposta: '',
+        pontos: -1,
+        jogador: '',
+        jogadorPontuado: ''
+    },
+    {
+        descricao: 'Qual é o título do jogo de tiro em primeira pessoa que se passa em um mundo pós-apocalíptico e apresenta a Vault Boy como um ícone reconhecível?',
+        resposta: 'Fallout',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Igornorante'
     }
 ];
 
