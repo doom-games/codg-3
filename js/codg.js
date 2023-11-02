@@ -224,6 +224,13 @@ let perguntas = [
         pontos: 1,
         jogador: 'Loucurazero',
         jogadorPontuado: 'Loucurazero'
+    },
+    {
+        descricao: 'Qual é o nome do protagonista da série "Max Payne"?',
+        resposta: 'Max Payne',
+        pontos: 1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
