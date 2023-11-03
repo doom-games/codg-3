@@ -304,10 +304,10 @@ let perguntas = [
     },
     {
         descricao: 'Qual foi o primeiro console de videogame fabricado pela Nintendo?',
-        resposta: '???',
-        pontos: -1,
-        jogador: '???',
-        jogadorPontuado: '???'
+        resposta: 'Color TV-Game',
+        pontos: -2,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'FAP'
     },
     {
         descricao: 'Qual é o título do jogo de tiro em primeira pessoa que se passa em um mundo pós-apocalíptico e apresenta a Vault Boy como um ícone reconhecível?',
@@ -319,7 +319,7 @@ let perguntas = [
     {
         descricao: 'Qual é a trilha sonora icônica composta por Nobuo Uematsu para a série "Final Fantasy"?',
         resposta: '???',
-        pontos: -1,
+        pontos: -2,
         jogador: '???',
         jogadorPontuado: '???'
     },
