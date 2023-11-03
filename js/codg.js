@@ -329,6 +329,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'kmikzy',
         jogadorPontuado: 'Loucurazero'
+    },
+    {
+        descricao: 'Qual é o nome da empresa japonesa que desenvolveu a série "Final Fantasy"?',
+        resposta: 'Square Enix (anteriormente Square)',
+        pontos: +1,
+        jogador: 'kmikzy',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
