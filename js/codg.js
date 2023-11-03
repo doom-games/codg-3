@@ -336,6 +336,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'kmikzy',
         jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Qual é o nome japonês do Super Nintendo?',
+        resposta: 'Super Famicom',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
