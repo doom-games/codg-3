@@ -318,10 +318,10 @@ let perguntas = [
     },
     {
         descricao: 'Qual é a trilha sonora icônica composta por Nobuo Uematsu para a série "Final Fantasy"?',
-        resposta: '???',
+        resposta: 'One-Winged Angel',
         pontos: -2,
-        jogador: '???',
-        jogadorPontuado: '???'
+        jogador: 'kmikzy',
+        jogadorPontuado: 'Kazimas'
     },
     {
         descricao: 'Qual foi o primeiro jogo eletrônico a apresentar um protagonista feminino, lançado em 1982?',
