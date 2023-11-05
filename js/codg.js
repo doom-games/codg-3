@@ -476,6 +476,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'Kazimas',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o nome do robô que se tornou uma figura icônica no jogo "Ratchet & Clank"?',
+        resposta: 'Clank',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'FAP'
     }
 ];
 
