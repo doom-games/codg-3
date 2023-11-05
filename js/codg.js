@@ -406,6 +406,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o título do jogo de RPG lançado para o PS1 que apresenta uma protagonista chamada Aya Brea e elementos de horror?',
+        resposta: 'Parasite Eve',
+        pontos: -1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
