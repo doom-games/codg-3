@@ -413,6 +413,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'Kazimas',
         jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Qual é o nome do herói que enfrenta zumbis no jogo de sobrevivência "Resident Evil" para o PS1?',
+        resposta: 'Chris Redfield',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Igornorante'
     }
 ];
 
