@@ -385,6 +385,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o título do jogo de RPG que é frequentemente considerado um dos melhores jogos de todos os tempos, lançado para o SNES em 1994?',
+        resposta: 'Chrono Trigger',
+        pontos: -1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'kmikzy'
     }
 ];
 
