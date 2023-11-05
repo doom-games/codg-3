@@ -441,6 +441,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Dida'
+    },
+    {
+        descricao: 'Qual é o título do jogo de ação e aventura em que os jogadores controlam um assassino geneticamente modificado chamado Agent 47?',
+        resposta: 'Hitman',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
