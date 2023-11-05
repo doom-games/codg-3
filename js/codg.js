@@ -421,6 +421,14 @@ let perguntas = [
         jogador: 'Kazimas',
         jogadorPontuado: 'Igornorante'
     }
+    ,
+    {
+        descricao: 'Qual é o título do jogo de estratégia baseado em turnos que inclui personagens da Disney e da Square Enix?',
+        resposta: 'Kingdom Hearts',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
+    }
 ];
 
 /* ÚLTIMAS PERGUNTAS */
