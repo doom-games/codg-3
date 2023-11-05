@@ -350,6 +350,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'FAP',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o título do jogo de ação e aventura em que os jogadores controlam um guerreiro espartano chamado Kratos?',
+        resposta: 'God of War',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
