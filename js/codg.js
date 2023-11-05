@@ -490,6 +490,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'Shadow',
         jogadorPontuado: 'Shadow'
+    },
+    {
+        descricao: 'Qual é o nome do jogo de plataforma em que o personagem, um morcego, realiza acrobacias em um circo?',
+        resposta: 'Aero the Acro-Bat',
+        pontos: -1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'FAP'
     }
 ];
 
