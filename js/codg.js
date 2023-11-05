@@ -378,6 +378,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual foi o primeiro jogo eletrônico comercialmente bem-sucedido, lançado em 1972?',
+        resposta: 'Pong',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
