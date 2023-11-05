@@ -392,6 +392,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'Kazimas',
         jogadorPontuado: 'kmikzy'
+    },
+    {
+        descricao: 'Qual é o nome do vilão principal da série "Streets of Rage"?',
+        resposta: 'Mr. X',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Loucurazero'
     }
 ];
 
