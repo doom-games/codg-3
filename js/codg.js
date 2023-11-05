@@ -504,6 +504,20 @@ let perguntas = [
         pontos: 1,
         jogador: 'FAP',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o título do jogo de ação-aventura em que os jogadores controlam um personagem chamado Ryo Hazuki em busca de vingança?',
+        resposta: 'Shenmue',
+        pontos: 1,
+        jogador: 'FAP',
+        jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o nome do dispositivo de memória que os jogadores usavam para salvar seus jogos no Dreamcast?',
+        resposta: 'Visual Memory Unit (VMU)',
+        pontos: -1,
+        jogador: 'FAP',
+        jogadorPontuado: 'Shadow'
     }
 ];
 
