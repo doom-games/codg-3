@@ -371,6 +371,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'FAP',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o nome do protagonista do jogo "Castlevania: Symphony of the Night" para o PS1?',
+        resposta: 'Alucard',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
