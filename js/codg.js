@@ -420,14 +420,20 @@ let perguntas = [
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Igornorante'
-    }
-    ,
+    },
     {
         descricao: 'Qual é o título do jogo de estratégia baseado em turnos que inclui personagens da Disney e da Square Enix?',
         resposta: 'Kingdom Hearts',
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o nome do jogo de plataforma estrelado por uma minhoca?',
+        resposta: 'Earthworm Jim',
+        pontos: -1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'FAP'
     }
 ];
 
