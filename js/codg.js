@@ -455,6 +455,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'FAP',
         jogadorPontuado: 'Camelão do deserto'
+    },
+    {
+        descricao: 'Qual é o título do jogo de ação-aventura que segue o "estilo quadrinhos"?',
+        resposta: 'Comix Zone',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Dida'
     }
 ];
 
