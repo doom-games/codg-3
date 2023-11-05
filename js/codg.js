@@ -448,6 +448,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o título do jogo de ação em que os jogadores controlam um jovem chamado Wander em uma jornada para derrotar colossos gigantes?',
+        resposta: 'Shadow of the Colossus',
+        pontos: -1,
+        jogador: 'FAP',
+        jogadorPontuado: 'Camelão do deserto'
     }
 ];
 
