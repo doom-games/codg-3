@@ -399,6 +399,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Loucurazero'
+    },
+    {
+        descricao: 'Qual é o nome do jogo em que os jogadores controlam um dinossauro chamado Yoshi?',
+        resposta: 'Yoshi\'s Story / Yoshi\'s Island',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
