@@ -434,6 +434,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'Kazimas',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o título do jogo de ação-aventura em que os jogadores controlam um super-herói chamado Alex Mercer?',
+        resposta: 'Prototype',
+        pontos: +1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'Dida'
     }
 ];
 
