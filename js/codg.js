@@ -357,6 +357,20 @@ let perguntas = [
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual foi o primeiro jogo de RPG a ser lançado para o NES (Nintendo Entertainment System)?',
+        resposta: '',
+        pontos: +1,
+        jogador: '',
+        jogadorPontuado: ''
+    },
+    {
+        descricao: 'Qual foi o nome original do Sega Mega Drive no Japão?',
+        resposta: 'Sega Genesis',
+        pontos: +1,
+        jogador: 'FAP',
+        jogadorPontuado: 'FAP'
     }
 ];
 
