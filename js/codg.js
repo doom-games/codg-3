@@ -469,6 +469,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'FAP',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o nome do serviço online da Microsoft que permite jogar multiplayer no Xbox 360?',
+        resposta: 'Xbox Live / Game Pass',
+        pontos: -1,
+        jogador: 'Kazimas',
+        jogadorPontuado: 'FAP'
     }
 ];
 
