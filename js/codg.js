@@ -343,6 +343,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Kazimas'
+    },
+    {
+        descricao: 'Qual é o título do jogo de corrida de karts que apresenta personagens da Nintendo?',
+        resposta: 'Mario Kart',
+        pontos: +1,
+        jogador: 'FAP',
+        jogadorPontuado: 'FAP'
     }
 ];
 
