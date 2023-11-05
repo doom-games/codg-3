@@ -462,6 +462,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'Dida'
+    },
+    {
+        descricao: 'Qual é o nome do dispositivo de detecção de movimentos lançado pela Microsoft para o Xbox 360?',
+        resposta: 'Kinect',
+        pontos: +1,
+        jogador: 'FAP',
+        jogadorPontuado: 'FAP'
     }
 ];
 
