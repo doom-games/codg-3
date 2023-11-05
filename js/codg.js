@@ -360,10 +360,10 @@ let perguntas = [
     },
     {
         descricao: 'Qual foi o primeiro jogo de RPG a ser lançado para o NES (Nintendo Entertainment System)?',
-        resposta: '',
+        resposta: 'Dragon Quest (conhecido como "Dragon Warrior" nos EUA)',
         pontos: +1,
-        jogador: '',
-        jogadorPontuado: ''
+        jogador: 'kmikzy',
+        jogadorPontuado: 'kmikzy'
     },
     {
         descricao: 'Qual foi o nome original do Sega Mega Drive no Japão?',
