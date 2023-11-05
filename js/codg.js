@@ -497,6 +497,13 @@ let perguntas = [
         pontos: -1,
         jogador: 'Kazimas',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o título do jogo de simulação de vida em que os jogadores controlam uma família em um bairro virtual?',
+        resposta: 'The Sims',
+        pontos: 1,
+        jogador: 'FAP',
+        jogadorPontuado: 'Kazimas'
     }
 ];
 
