@@ -483,6 +483,13 @@ let perguntas = [
         pontos: +1,
         jogador: 'Kazimas',
         jogadorPontuado: 'FAP'
+    },
+    {
+        descricao: 'Qual é o nome do famoso jogo de construção de cidades em que os jogadores devem gerenciar recursos e população?',
+        resposta: 'SimCity',
+        pontos: +1,
+        jogador: 'Shadow',
+        jogadorPontuado: 'Shadow'
     }
 ];
 
